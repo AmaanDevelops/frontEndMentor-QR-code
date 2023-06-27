@@ -19,7 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL:("https://www.frontendmentor.io/solutions/qrcode-html-and-css-MSCkAccSW_")
+- Please copy this solution URL until the underscore. GitHub is not considering the underscore as part of the URL
+- Solution URL:(https://www.frontendmentor.io/solutions/qrcode-html-and-css-MSCkAccSW_)
 
 - Live Site URL:(https://amaandevelops.github.io/frontEndMentor-QR-code/)
 
